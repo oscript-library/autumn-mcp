@@ -1,0 +1,8 @@
+{
+    "mcpServers": {
+      "autumn-mcp": {
+        "command": "oscript",
+        "args": ["example/main.os"]
+      }
+    }
+  }
