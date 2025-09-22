@@ -8,6 +8,7 @@
         .Версия("1.0.1")
         .Автор("Stanislav Kosolapov")
         .АдресАвтора("https://github.com/proDOOMman")
+        .АдресРепозитория("https://github.com/autumn-library/autumn-mcp")
         .Описание("Библиотека для разработки mcp серверов на осеннем фреймворке")
         .ВерсияСреды("1.9.2")
         .ВключитьФайл("src")
